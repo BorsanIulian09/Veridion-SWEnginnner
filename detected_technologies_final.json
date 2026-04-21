@@ -1,0 +1,1090 @@
+[
+    {
+        "domain": "jcmobilecigars.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "somalidisablesupport.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "yourfamilylines.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "szentkristofudvarhaz.hu",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content"
+        ]
+    },
+    {
+        "domain": "disneystore.com",
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "chavchavadze-m2-41-tbilisi.booked.net",
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "trs-energycontrol.de",
+        "found": [
+            "React"
+        ],
+        "proofs": [
+            "[React] Found script source: react.production"
+        ]
+    },
+    {
+        "domain": "xn--kleoghvidevareservice-qfc.dk",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes"
+        ]
+    },
+    {
+        "domain": "gogroupauto.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "231selfstorage.com",
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "globalrn.com",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+        "domain": "cytofastmed.com",
+        "error": "HTTPConnectionPool(host='cytofastmed.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='cytofastmed.com', port=80): Failed to resolve 'cytofastmed.com' ([Errno 11002] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "5starremoval.weebly.com",
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found script source: /cdn-cgi/"
+        ]
+    },
+    {
+        "domain": "coenzwezerijnen.nu",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "gutendorf.ru",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content"
+        ]
+    },
+    {
+        "domain": "katesworldtravel.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "3xd.co.uk",
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "gapconstructionwi.com",
+        "found": [
+            "React"
+        ],
+        "proofs": [
+            "[React] Found script source: react.production"
+        ]
+    },
+    {
+        "domain": "imgs.co.jp",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "clotting-guide.online",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes"
+        ]
+    },
+    {
+        "domain": "38inspect.com",
+        "found": [
+            "Cloudflare",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "newbeaverborough.org",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes"
+        ]
+    },
+    {
+        "domain": "largsbaychiropractic.com.au",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "rsthealthcare.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "dioxoxigenio.com.br",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content"
+        ]
+    },
+    {
+        "domain": "doringpoort.com",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes"
+        ]
+    },
+    {
+        "domain": "fsbwyoming.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "msc-manching.de",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes"
+        ]
+    },
+    {
+        "domain": "sgsextremaratio.it",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "coastwidemechanicalcentralcoast.com.au",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: wordpress"
+        ]
+    },
+    {
+        "domain": "amourfinder.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "lojatatical.com.br",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "jobresourcecentre.com",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes"
+        ]
+    },
+    {
+        "domain": "ferienwohnung-kastell.de",
+        "error": "HTTPConnectionPool(host='ferienwohnung-kastell.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='ferienwohnung-kastell.de', port=80): Failed to resolve 'ferienwohnung-kastell.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "253media.com",
+        "found": [
+            "Shopify",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Shopify] Found in Meta Tag: shopify",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "velvety.eu",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content"
+        ]
+    },
+    {
+        "domain": "doortodoororganics.com",
+        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+    },
+    {
+        "domain": "kentpropertyrenovations.co.uk",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content"
+        ]
+    },
+    {
+        "domain": "fisherinvestments.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "rionecontrastanga.net",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content"
+        ]
+    },
+    {
+        "domain": "stwannas.com",
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "empresasori.com",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes"
+        ]
+    },
+    {
+        "domain": "familybroker.cz",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "genesisny.net",
+        "found": [
+            "Google Analytics"
+        ],
+        "proofs": [
+            "[Google Analytics] Found script source: google-analytics.com"
+        ]
+    },
+    {
+        "domain": "5w.design",
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "huberautomotive.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "marien-apotheke-grefrath-app.de",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "centreconsiliereavort.ro",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes"
+        ]
+    },
+    {
+        "domain": "infoaboutnetwork.com",
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "11853prospecthill.com",
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found script source: /cdn-cgi/"
+        ]
+    },
+    {
+        "domain": "passwordstore.it",
+        "error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+        "domain": "avocatalinamanciu.ro",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content"
+        ]
+    },
+    {
+        "domain": "abcdpinturas.com.br",
+        "error": "HTTPConnectionPool(host='abcdpinturas.com.br', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='abcdpinturas.com.br', port=80): Failed to resolve 'abcdpinturas.com.br' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "dssfla.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "weducars.co.za",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes"
+        ]
+    },
+    {
+        "domain": "4stonebuildings.com",
+        "found": [
+            "Cloudflare",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "maniaupiekszania.pl",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content"
+        ]
+    },
+    {
+        "domain": "sprucemeadowsmd.com",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes"
+        ]
+    },
+    {
+        "domain": "natedea.co.uk",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content"
+        ]
+    },
+    {
+        "domain": "loizillon.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "haus-muehlenfeld-pommerby.de",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "arenaskolor.se",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes"
+        ]
+    },
+    {
+        "domain": "boken.ch",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes"
+        ]
+    },
+    {
+        "domain": "restwellstreetmedicalcentre.com.au",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "den-a-sha.co.jp",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "365outsource.com",
+        "found": [
+            "Cloudflare",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[Cloudflare] Found script source: /cdn-cgi/"
+        ]
+    },
+    {
+        "domain": "aida-cruises.at",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "lets.gr",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "skywayrestaurants.net",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "2020wealthadvisory.com",
+        "found": [
+            "Cloudflare",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[Cloudflare] Found script source: /cdn-cgi/"
+        ]
+    },
+    {
+        "domain": "hnafirm.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "itsolutions24.pl",
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes"
+        ]
+    },
+    {
+        "domain": "aaice.net",
+        "found": [
+            "Cloudflare",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "ecolab.com",
+        "error": "HTTPSConnectionPool(host='www.ecolab.com', port=443): Read timed out. (read timeout=10)"
+    },
+    {
+        "domain": "mehmetefendimacedonia.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "laplumedelisibilite.fr",
+        "found": [
+            "Google Analytics"
+        ],
+        "proofs": [
+            "[Google Analytics] Found script source: gtag.js"
+        ]
+    },
+    {
+        "domain": "2ldm.com",
+        "found": [
+            "Cloudflare",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "westchesterpointechiro.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "cei-expertises.fr",
+        "error": "HTTPSConnectionPool(host='www.cei-expertises.fr', port=443): Read timed out. (read timeout=10)"
+    },
+    {
+        "domain": "seringa-safaris.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "1planettechnologies.weebly.com",
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found script source: /cdn-cgi/"
+        ]
+    },
+    {
+        "domain": "soziale-dreigliederung.de",
+        "error": "HTTPSConnectionPool(host='www.soziale-dreigliederung.de', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1081)')))"
+    },
+    {
+        "domain": "premierhomeremodeling.net",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "bas-ingenieria.cl",
+        "error": "HTTPConnectionPool(host='bas-ingenieria.cl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='bas-ingenieria.cl', port=80): Failed to resolve 'bas-ingenieria.cl' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "produkttheater.de",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "unnames.com",
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "handycars.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "antikebau.de",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "3strandschurch.org",
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
+    },
+    {
+        "domain": "alabamabuildingcontractor.com",
+        "error": "HTTPSConnectionPool(host='alabamabuildingcontractor.com', port=443): Read timed out. (read timeout=10)"
+    },
+    {
+        "domain": "resourceservicesolutions.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "skywardspeech.com.au",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "sevecoitalia.com",
+        "error": "HTTPSConnectionPool(host='www.sevecoitalia.com', port=443): Read timed out. (read timeout=10)"
+    },
+    {
+        "domain": "nielsbirk.dk",
+        "error": "HTTPSConnectionPool(host='karllund.dk', port=443): Read timed out. (read timeout=10)"
+    },
+    {
+        "domain": "branson-connection.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "phucankhanggroup.com",
+        "error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+    },
+    {
+        "domain": "roccofortehotels.cn",
+        "error": "HTTPSConnectionPool(host='www.roccofortehotels.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.roccofortehotels.cn', port=443) at 0x1d30df9f750>, 'Connection to www.roccofortehotels.cn timed out. (connect timeout=10)'))"
+    },
+    {
+        "domain": "everhartsoutdoor.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "europeaninns.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "massageforworldpeace.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "cultivateventures.co.nz",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "amaronbattery.in",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "radxmobile.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "2-com.net",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "3bsexcavating.com",
+        "found": [],
+        "proofs": []
+    },
+    {
+        "domain": "weissbauchpapageien.de",
+        "error": "HTTPConnectionPool(host='weissbauchpapageien.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='weissbauchpapageien.de', port=80): Failed to resolve 'weissbauchpapageien.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "959marine.com",
+        "error": "HTTPConnectionPool(host='959marine.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='959marine.com', port=80): Failed to resolve '959marine.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "hansis-knusperhendl-foodtruck.eatbu.com",
+        "error": "HTTPConnectionPool(host='hansis-knusperhendl-foodtruck.eatbu.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='hansis-knusperhendl-foodtruck.eatbu.com', port=80): Failed to resolve 'hansis-knusperhendl-foodtruck.eatbu.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "broganlmt.com",
+        "error": "HTTPConnectionPool(host='broganlmt.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='broganlmt.com', port=80): Failed to resolve 'broganlmt.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "juanmunozhomesmart.com",
+        "error": "HTTPConnectionPool(host='juanmunozhomesmart.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='juanmunozhomesmart.com', port=80): Failed to resolve 'juanmunozhomesmart.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "buchhaltungsservice-koenig.de",
+        "error": "HTTPConnectionPool(host='buchhaltungsservice-koenig.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='buchhaltungsservice-koenig.de', port=80): Failed to resolve 'buchhaltungsservice-koenig.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "solvos.nl",
+        "error": "HTTPConnectionPool(host='solvos.nl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='solvos.nl', port=80): Failed to resolve 'solvos.nl' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "261welfarefund.com",
+        "error": "HTTPConnectionPool(host='261welfarefund.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='261welfarefund.com', port=80): Failed to resolve '261welfarefund.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "costa-coffee.be",
+        "error": "HTTPConnectionPool(host='costa-coffee.be', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='costa-coffee.be', port=80): Failed to resolve 'costa-coffee.be' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "startravelcompany.com",
+        "error": "HTTPConnectionPool(host='startravelcompany.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='startravelcompany.com', port=80): Failed to resolve 'startravelcompany.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "disinfestazioniepiscine.it",
+        "error": "HTTPConnectionPool(host='disinfestazioniepiscine.it', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='disinfestazioniepiscine.it', port=80): Failed to resolve 'disinfestazioniepiscine.it' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "lscms.org",
+        "error": "HTTPConnectionPool(host='lscms.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='lscms.org', port=80): Failed to resolve 'lscms.org' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "3dwealthadvisory.com",
+        "error": "HTTPConnectionPool(host='3dwealthadvisory.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='3dwealthadvisory.com', port=80): Failed to resolve '3dwealthadvisory.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "jackwills.com",
+        "error": "HTTPConnectionPool(host='jackwills.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='jackwills.com', port=80): Failed to resolve 'jackwills.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "nevsproductions.com",
+        "error": "HTTPConnectionPool(host='nevsproductions.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='nevsproductions.com', port=80): Failed to resolve 'nevsproductions.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "kande-hoikuen.ed.jp",
+        "error": "HTTPConnectionPool(host='kande-hoikuen.ed.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='kande-hoikuen.ed.jp', port=80): Failed to resolve 'kande-hoikuen.ed.jp' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "orifoodsco.com",
+        "error": "HTTPConnectionPool(host='orifoodsco.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='orifoodsco.com', port=80): Failed to resolve 'orifoodsco.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "deerfieldbeachautomall.com",
+        "error": "HTTPConnectionPool(host='deerfieldbeachautomall.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='deerfieldbeachautomall.com', port=80): Failed to resolve 'deerfieldbeachautomall.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "insieme.stanford.edu",
+        "error": "HTTPConnectionPool(host='insieme.stanford.edu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='insieme.stanford.edu', port=80): Failed to resolve 'insieme.stanford.edu' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "layer7innovations.ca",
+        "error": "HTTPConnectionPool(host='layer7innovations.ca', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='layer7innovations.ca', port=80): Failed to resolve 'layer7innovations.ca' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "makpharma-eg.com",
+        "error": "HTTPConnectionPool(host='makpharma-eg.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='makpharma-eg.com', port=80): Failed to resolve 'makpharma-eg.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "ejc-courtage-assurances.fr",
+        "error": "HTTPConnectionPool(host='ejc-courtage-assurances.fr', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='ejc-courtage-assurances.fr', port=80): Failed to resolve 'ejc-courtage-assurances.fr' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "ferrateoxidant.com",
+        "error": "HTTPConnectionPool(host='ferrateoxidant.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='ferrateoxidant.com', port=80): Failed to resolve 'ferrateoxidant.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "oakwell.vet",
+        "error": "HTTPConnectionPool(host='oakwell.vet', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='oakwell.vet', port=80): Failed to resolve 'oakwell.vet' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "mysterion.hr",
+        "error": "HTTPConnectionPool(host='mysterion.hr', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='mysterion.hr', port=80): Failed to resolve 'mysterion.hr' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "howellmotors.com",
+        "error": "HTTPConnectionPool(host='howellmotors.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='howellmotors.com', port=80): Failed to resolve 'howellmotors.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "lorenz-baumarkt.de",
+        "error": "HTTPConnectionPool(host='lorenz-baumarkt.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='lorenz-baumarkt.de', port=80): Failed to resolve 'lorenz-baumarkt.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "eclairage-solaire-occitanie.com",
+        "error": "HTTPConnectionPool(host='eclairage-solaire-occitanie.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='eclairage-solaire-occitanie.com', port=80): Failed to resolve 'eclairage-solaire-occitanie.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "cmc01village.com",
+        "error": "HTTPConnectionPool(host='cmc01village.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='cmc01village.com', port=80): Failed to resolve 'cmc01village.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "maiquotes.net",
+        "error": "HTTPConnectionPool(host='maiquotes.net', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='maiquotes.net', port=80): Failed to resolve 'maiquotes.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "cmresolutions.com",
+        "error": "HTTPConnectionPool(host='cmresolutions.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='cmresolutions.com', port=80): Failed to resolve 'cmresolutions.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "wglchurch.com",
+        "error": "HTTPConnectionPool(host='wglchurch.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='wglchurch.com', port=80): Failed to resolve 'wglchurch.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "nwmotorinn.com",
+        "error": "HTTPConnectionPool(host='nwmotorinn.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='nwmotorinn.com', port=80): Failed to resolve 'nwmotorinn.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "dorpsbelangen.nu",
+        "error": "HTTPConnectionPool(host='dorpsbelangen.nu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='dorpsbelangen.nu', port=80): Failed to resolve 'dorpsbelangen.nu' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "littlerockafamily.de",
+        "error": "HTTPConnectionPool(host='littlerockafamily.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='littlerockafamily.de', port=80): Failed to resolve 'littlerockafamily.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "evelynanders.com",
+        "error": "HTTPConnectionPool(host='evelynanders.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='evelynanders.com', port=80): Failed to resolve 'evelynanders.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "domekvefaru.com",
+        "error": "HTTPConnectionPool(host='domekvefaru.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='domekvefaru.com', port=80): Failed to resolve 'domekvefaru.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "sdmdjentertainment.com",
+        "error": "HTTPConnectionPool(host='sdmdjentertainment.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='sdmdjentertainment.com', port=80): Failed to resolve 'sdmdjentertainment.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "ideenhunger.com",
+        "error": "HTTPConnectionPool(host='ideenhunger.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='ideenhunger.com', port=80): Failed to resolve 'ideenhunger.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "jenniferbacksteininteriors.com",
+        "error": "HTTPConnectionPool(host='jenniferbacksteininteriors.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='jenniferbacksteininteriors.com', port=80): Failed to resolve 'jenniferbacksteininteriors.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "elcolegiocongresosyrestaurante.com",
+        "error": "HTTPConnectionPool(host='elcolegiocongresosyrestaurante.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='elcolegiocongresosyrestaurante.com', port=80): Failed to resolve 'elcolegiocongresosyrestaurante.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "northshoremacnut.com",
+        "error": "HTTPConnectionPool(host='northshoremacnut.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='northshoremacnut.com', port=80): Failed to resolve 'northshoremacnut.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "powercleaning.services",
+        "error": "HTTPConnectionPool(host='powercleaning.services', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='powercleaning.services', port=80): Failed to resolve 'powercleaning.services' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "stoperbis.pl",
+        "error": "HTTPConnectionPool(host='stoperbis.pl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='stoperbis.pl', port=80): Failed to resolve 'stoperbis.pl' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "verticalcommunitychurch.com",
+        "error": "HTTPConnectionPool(host='verticalcommunitychurch.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='verticalcommunitychurch.com', port=80): Failed to resolve 'verticalcommunitychurch.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "gitesducharmois.fr",
+        "error": "HTTPConnectionPool(host='gitesducharmois.fr', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='gitesducharmois.fr', port=80): Failed to resolve 'gitesducharmois.fr' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "allegrocreditbeta.com",
+        "error": "HTTPConnectionPool(host='allegrocreditbeta.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='allegrocreditbeta.com', port=80): Failed to resolve 'allegrocreditbeta.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "hoffmaninstitute.co.uk",
+        "error": "HTTPConnectionPool(host='hoffmaninstitute.co.uk', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='hoffmaninstitute.co.uk', port=80): Failed to resolve 'hoffmaninstitute.co.uk' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "a3sec.com",
+        "error": "HTTPConnectionPool(host='a3sec.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='a3sec.com', port=80): Failed to resolve 'a3sec.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "concrete-fitness.edan.io",
+        "error": "HTTPConnectionPool(host='concrete-fitness.edan.io', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='concrete-fitness.edan.io', port=80): Failed to resolve 'concrete-fitness.edan.io' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "nicholsonchiro.com",
+        "error": "HTTPConnectionPool(host='nicholsonchiro.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='nicholsonchiro.com', port=80): Failed to resolve 'nicholsonchiro.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "la-residenza-del-principe-rome-it.booked.net",
+        "error": "HTTPConnectionPool(host='la-residenza-del-principe-rome-it.booked.net', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='la-residenza-del-principe-rome-it.booked.net', port=80): Failed to resolve 'la-residenza-del-principe-rome-it.booked.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "jonesbuickgmc.com",
+        "error": "HTTPConnectionPool(host='jonesbuickgmc.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='jonesbuickgmc.com', port=80): Failed to resolve 'jonesbuickgmc.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "xn--jobvrkstedet-9cb.nu",
+        "error": "HTTPConnectionPool(host='xn--jobvrkstedet-9cb.nu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='xn--jobvrkstedet-9cb.nu', port=80): Failed to resolve 'xn--jobvrkstedet-9cb.nu' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "appelpsychotherapy.com",
+        "error": "HTTPConnectionPool(host='appelpsychotherapy.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='appelpsychotherapy.com', port=80): Failed to resolve 'appelpsychotherapy.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "brucebournesold.com",
+        "error": "HTTPConnectionPool(host='brucebournesold.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='brucebournesold.com', port=80): Failed to resolve 'brucebournesold.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "pcb-cpb.com",
+        "error": "HTTPConnectionPool(host='pcb-cpb.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='pcb-cpb.com', port=80): Failed to resolve 'pcb-cpb.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "chiantifiorentino.it",
+        "error": "HTTPConnectionPool(host='chiantifiorentino.it', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='chiantifiorentino.it', port=80): Failed to resolve 'chiantifiorentino.it' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "11thhourracing.org",
+        "error": "HTTPConnectionPool(host='11thhourracing.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='11thhourracing.org', port=80): Failed to resolve '11thhourracing.org' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "miratrade.com.tr",
+        "error": "HTTPConnectionPool(host='miratrade.com.tr', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='miratrade.com.tr', port=80): Failed to resolve 'miratrade.com.tr' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "freo.com.au",
+        "error": "HTTPConnectionPool(host='freo.com.au', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='freo.com.au', port=80): Failed to resolve 'freo.com.au' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "fluxar.com.ar",
+        "error": "HTTPConnectionPool(host='fluxar.com.ar', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='fluxar.com.ar', port=80): Failed to resolve 'fluxar.com.ar' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "redpants.jp",
+        "error": "HTTPConnectionPool(host='redpants.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='redpants.jp', port=80): Failed to resolve 'redpants.jp' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "bata.edu.hu",
+        "error": "HTTPConnectionPool(host='bata.edu.hu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='bata.edu.hu', port=80): Failed to resolve 'bata.edu.hu' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "3-energie-klaas.de",
+        "error": "HTTPConnectionPool(host='3-energie-klaas.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='3-energie-klaas.de', port=80): Failed to resolve '3-energie-klaas.de' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "labdemo.com",
+        "error": "HTTPConnectionPool(host='labdemo.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='labdemo.com', port=80): Failed to resolve 'labdemo.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "1ststopsupply.com",
+        "error": "HTTPConnectionPool(host='1ststopsupply.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='1ststopsupply.com', port=80): Failed to resolve '1ststopsupply.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "celiabedilia.com",
+        "error": "HTTPConnectionPool(host='celiabedilia.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='celiabedilia.com', port=80): Failed to resolve 'celiabedilia.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "davidloeppke.com",
+        "error": "HTTPConnectionPool(host='davidloeppke.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='davidloeppke.com', port=80): Failed to resolve 'davidloeppke.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "wrinkle-pei.cz",
+        "error": "HTTPConnectionPool(host='wrinkle-pei.cz', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='wrinkle-pei.cz', port=80): Failed to resolve 'wrinkle-pei.cz' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "koniczynka.info.pl",
+        "error": "HTTPConnectionPool(host='koniczynka.info.pl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='koniczynka.info.pl', port=80): Failed to resolve 'koniczynka.info.pl' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "footasylum.com",
+        "error": "HTTPConnectionPool(host='footasylum.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='footasylum.com', port=80): Failed to resolve 'footasylum.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "2agateway.com",
+        "error": "HTTPConnectionPool(host='2agateway.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='2agateway.com', port=80): Failed to resolve '2agateway.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "ledestjernenstu.dk",
+        "error": "HTTPConnectionPool(host='ledestjernenstu.dk', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='ledestjernenstu.dk', port=80): Failed to resolve 'ledestjernenstu.dk' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "1stlocksheathscouts.org.uk",
+        "error": "HTTPConnectionPool(host='1stlocksheathscouts.org.uk', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='1stlocksheathscouts.org.uk', port=80): Failed to resolve '1stlocksheathscouts.org.uk' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "tamcconstruction.net",
+        "error": "HTTPConnectionPool(host='tamcconstruction.net', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='tamcconstruction.net', port=80): Failed to resolve 'tamcconstruction.net' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "abbikadabbisbakingco.com",
+        "error": "HTTPConnectionPool(host='abbikadabbisbakingco.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='abbikadabbisbakingco.com', port=80): Failed to resolve 'abbikadabbisbakingco.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "herbalwise.ie",
+        "error": "HTTPConnectionPool(host='herbalwise.ie', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='herbalwise.ie', port=80): Failed to resolve 'herbalwise.ie' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "deepseass.com",
+        "error": "HTTPConnectionPool(host='deepseass.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='deepseass.com', port=80): Failed to resolve 'deepseass.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "aardvarkelectriccorp.com",
+        "error": "HTTPConnectionPool(host='aardvarkelectriccorp.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='aardvarkelectriccorp.com', port=80): Failed to resolve 'aardvarkelectriccorp.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "needaphysio.com",
+        "error": "HTTPConnectionPool(host='needaphysio.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='needaphysio.com', port=80): Failed to resolve 'needaphysio.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "thomasrosenbaum.com",
+        "error": "HTTPConnectionPool(host='thomasrosenbaum.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='thomasrosenbaum.com', port=80): Failed to resolve 'thomasrosenbaum.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "100wwcstlw.org",
+        "error": "HTTPConnectionPool(host='100wwcstlw.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='100wwcstlw.org', port=80): Failed to resolve '100wwcstlw.org' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "shapirolawfirm.com",
+        "error": "HTTPConnectionPool(host='shapirolawfirm.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='shapirolawfirm.com', port=80): Failed to resolve 'shapirolawfirm.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "joseph-herber.business.site",
+        "error": "HTTPConnectionPool(host='joseph-herber.business.site', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='joseph-herber.business.site', port=80): Failed to resolve 'joseph-herber.business.site' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "arol.cl",
+        "error": "HTTPConnectionPool(host='arol.cl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='arol.cl', port=80): Failed to resolve 'arol.cl' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "sindacatobadanti.it",
+        "error": "HTTPConnectionPool(host='sindacatobadanti.it', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='sindacatobadanti.it', port=80): Failed to resolve 'sindacatobadanti.it' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "1stclairavewest.com",
+        "error": "HTTPConnectionPool(host='1stclairavewest.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='1stclairavewest.com', port=80): Failed to resolve '1stclairavewest.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "lighthouseprc.org",
+        "error": "HTTPConnectionPool(host='lighthouseprc.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='lighthouseprc.org', port=80): Failed to resolve 'lighthouseprc.org' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "5rcircleprocess.weebly.com",
+        "error": "HTTPConnectionPool(host='5rcircleprocess.weebly.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='5rcircleprocess.weebly.com', port=80): Failed to resolve '5rcircleprocess.weebly.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "unitedveterinaryservice.com",
+        "error": "HTTPConnectionPool(host='unitedveterinaryservice.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='unitedveterinaryservice.com', port=80): Failed to resolve 'unitedveterinaryservice.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "construccionesyatecnicas.com",
+        "error": "HTTPConnectionPool(host='construccionesyatecnicas.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='construccionesyatecnicas.com', port=80): Failed to resolve 'construccionesyatecnicas.com' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "joburgheritage.org.za",
+        "error": "HTTPConnectionPool(host='joburgheritage.org.za', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='joburgheritage.org.za', port=80): Failed to resolve 'joburgheritage.org.za' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "bfnelson.it",
+        "error": "HTTPConnectionPool(host='bfnelson.it', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='bfnelson.it', port=80): Failed to resolve 'bfnelson.it' ([Errno 11001] getaddrinfo failed)\"))"
+    },
+    {
+        "domain": "rivithead.com",
+        "error": "HTTPConnectionPool(host='rivithead.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='rivithead.com', port=80): Failed to resolve 'rivithead.com' ([Errno 11001] getaddrinfo failed)\"))"
+    }
+]
