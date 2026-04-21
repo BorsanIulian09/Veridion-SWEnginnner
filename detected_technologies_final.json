@@ -1,34 +1,56 @@
 [
     {
         "domain": "jcmobilecigars.com",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Squarespace"
+        ],
+        "proofs": [
+            "[Squarespace] Found script source: squarespace.com"
+        ]
     },
     {
         "domain": "somalidisablesupport.com",
-        "found": [],
-        "proofs": []
+        "found": [
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "yourfamilylines.com",
-        "found": [],
-        "proofs": []
+        "found": [
+            "jQuery"
+        ],
+        "proofs": [
+            "[jQuery] Found script source: jquery.js"
+        ]
     },
     {
         "domain": "szentkristofudvarhaz.hu",
         "found": [
+            "Google Analytics",
+            "jQuery",
             "WordPress"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-content"
+            "[WordPress] Found script source: wp-content",
+            "[Google Analytics] Found keyword in HTML: google-analytics.com",
+            "[jQuery] Found script source: jquery.js"
         ]
     },
     {
         "domain": "disneystore.com",
         "found": [
+            "WordPress",
             "Cloudflare"
         ],
         "proofs": [
+            "[WordPress] Found keyword in HTML: wp-content",
             "[Cloudflare] Found in HTTP Headers: cf-ray"
         ]
     },
@@ -44,19 +66,27 @@
     {
         "domain": "trs-energycontrol.de",
         "found": [
-            "React"
+            "React",
+            "Wix",
+            "Lodash",
+            "WordPress"
         ],
         "proofs": [
-            "[React] Found script source: react.production"
+            "[WordPress] Found in Meta Tag: generator",
+            "[Wix] Found keyword in HTML: wix.com",
+            "[React] Found script source: react.production",
+            "[Lodash] Found script source: lodash.min.js"
         ]
     },
     {
         "domain": "xn--kleoghvidevareservice-qfc.dk",
         "found": [
+            "jQuery",
             "WordPress"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-includes"
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.js"
         ]
     },
     {
@@ -67,15 +97,24 @@
     {
         "domain": "231selfstorage.com",
         "found": [
+            "Google Analytics",
+            "WordPress",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[Cloudflare] Found keyword in HTML: /cdn-cgi/"
+        ]
+    },
+    {
+        "domain": "globalrn.com",
+        "found": [
             "Cloudflare"
         ],
         "proofs": [
             "[Cloudflare] Found in HTTP Headers: cf-ray"
         ]
-    },
-    {
-        "domain": "globalrn.com",
-        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
     },
     {
         "domain": "cytofastmed.com",
@@ -84,9 +123,13 @@
     {
         "domain": "5starremoval.weebly.com",
         "found": [
+            "Google Analytics",
+            "jQuery",
             "Cloudflare"
         ],
         "proofs": [
+            "[Google Analytics] Found keyword in HTML: google-analytics.com",
+            "[jQuery] Found script source: jquery.min.js",
             "[Cloudflare] Found script source: /cdn-cgi/"
         ]
     },
@@ -98,73 +141,119 @@
     {
         "domain": "gutendorf.ru",
         "found": [
-            "WordPress"
+            "WooCommerce",
+            "WordPress",
+            "Yandex Metrika",
+            "jQuery"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-content"
+            "[WordPress] Found script source: wp-content",
+            "[WooCommerce] Found script source: woocommerce",
+            "[Yandex Metrika] Found keyword in HTML: mc.yandex.ru/metrika",
+            "[jQuery] Found keyword in HTML: jquery.min.js"
         ]
     },
     {
         "domain": "katesworldtravel.com",
-        "found": [],
-        "proofs": []
+        "found": [
+            "jQuery",
+            "WooCommerce",
+            "WordPress",
+            "Facebook Pixel"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[Facebook Pixel] Found keyword in HTML: connect.facebook.net/en_us/fbevents.js",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "3xd.co.uk",
         "found": [
-            "Cloudflare"
+            "jQuery",
+            "WordPress",
+            "Cloudflare",
+            "Bootstrap"
         ],
         "proofs": [
-            "[Cloudflare] Found in HTTP Headers: cf-ray"
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Bootstrap] Found script source: bootstrap.bundle.min.js",
+            "[Cloudflare] Found script source: /cdn-cgi/"
         ]
     },
     {
         "domain": "gapconstructionwi.com",
         "found": [
-            "React"
+            "React",
+            "Wix",
+            "Lodash",
+            "WordPress"
         ],
         "proofs": [
-            "[React] Found script source: react.production"
+            "[WordPress] Found in Meta Tag: generator",
+            "[Wix] Found keyword in HTML: wix.com",
+            "[React] Found script source: react.production",
+            "[Lodash] Found script source: lodash.min.js"
         ]
     },
     {
         "domain": "imgs.co.jp",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Google Analytics",
+            "jQuery"
+        ],
+        "proofs": [
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "clotting-guide.online",
         "found": [
-            "WordPress"
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-includes"
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
         "domain": "38inspect.com",
         "found": [
-            "Cloudflare",
-            "WordPress"
+            "jQuery",
+            "WordPress",
+            "Cloudflare"
         ],
         "proofs": [
             "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js",
             "[Cloudflare] Found in HTTP Headers: cf-ray"
         ]
     },
     {
         "domain": "newbeaverborough.org",
         "found": [
+            "jQuery",
             "WordPress"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-includes"
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
         "domain": "largsbaychiropractic.com.au",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Squarespace"
+        ],
+        "proofs": [
+            "[Squarespace] Found script source: squarespace.com"
+        ]
     },
     {
         "domain": "rsthealthcare.com",
@@ -174,19 +263,25 @@
     {
         "domain": "dioxoxigenio.com.br",
         "found": [
+            "jQuery",
             "WordPress"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-content"
+            "[WordPress] Found script source: wp-content",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
         "domain": "doringpoort.com",
         "found": [
+            "Google Analytics",
+            "jQuery",
             "WordPress"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-includes"
+            "[WordPress] Found script source: wp-includes",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
@@ -197,24 +292,38 @@
     {
         "domain": "msc-manching.de",
         "found": [
-            "WordPress"
+            "Bootstrap",
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-includes"
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Bootstrap] Found script source: bootstrap.min.js"
         ]
     },
     {
         "domain": "sgsextremaratio.it",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Nuxt.js"
+        ],
+        "proofs": [
+            "[Nuxt.js] Found script source: _nuxt/"
+        ]
     },
     {
         "domain": "coastwidemechanicalcentralcoast.com.au",
         "found": [
+            "Google Analytics",
+            "jQuery",
             "WordPress"
         ],
         "proofs": [
-            "[WordPress] Found in Meta Tag: wordpress"
+            "[WordPress] Found keyword in HTML: wp-content",
+            "[Google Analytics] Found keyword in HTML: googletagmanager",
+            "[jQuery] Found keyword in HTML: jquery.min.js"
         ]
     },
     {
@@ -224,16 +333,32 @@
     },
     {
         "domain": "lojatatical.com.br",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Google Analytics",
+            "Bootstrap",
+            "Magento",
+            "Facebook Pixel"
+        ],
+        "proofs": [
+            "[Magento] Found keyword in HTML: mage/cookies",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[Facebook Pixel] Found keyword in HTML: fbq(",
+            "[Bootstrap] Found keyword in HTML: bootstrap.css"
+        ]
     },
     {
         "domain": "jobresourcecentre.com",
         "found": [
-            "WordPress"
+            "Google Analytics",
+            "jQuery",
+            "WordPress",
+            "Bootstrap"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-includes"
+            "[WordPress] Found script source: wp-includes",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Bootstrap] Found script source: bootstrap.min.js"
         ]
     },
     {
@@ -244,33 +369,58 @@
         "domain": "253media.com",
         "found": [
             "Shopify",
-            "Cloudflare"
+            "jQuery",
+            "Google Analytics",
+            "LinkedIn Insights",
+            "Cloudflare",
+            "Facebook Pixel",
+            "Webflow"
         ],
         "proofs": [
             "[Shopify] Found in Meta Tag: shopify",
+            "[Webflow] Found in Meta Tag: webflow",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[Facebook Pixel] Found keyword in HTML: connect.facebook.net/en_us/fbevents.js",
+            "[LinkedIn Insights] Found keyword in HTML: snap.licdn.com",
+            "[jQuery] Found script source: jquery.min.js",
             "[Cloudflare] Found in HTTP Headers: cf-ray"
         ]
     },
     {
         "domain": "velvety.eu",
         "found": [
+            "Google Analytics",
+            "jQuery",
+            "LinkedIn Insights",
             "WordPress"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-content"
+            "[WordPress] Found script source: wp-content",
+            "[Google Analytics] Found keyword in HTML: googletagmanager",
+            "[LinkedIn Insights] Found keyword in HTML: snap.licdn.com",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
         "domain": "doortodoororganics.com",
-        "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "kentpropertyrenovations.co.uk",
         "found": [
-            "WordPress"
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-content"
+            "[WordPress] Found script source: wp-content",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[jQuery] Found keyword in HTML: jquery.min.js"
         ]
     },
     {
@@ -281,10 +431,12 @@
     {
         "domain": "rionecontrastanga.net",
         "found": [
+            "jQuery",
             "WordPress"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-content"
+            "[WordPress] Found script source: wp-content",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
@@ -293,16 +445,22 @@
             "Cloudflare"
         ],
         "proofs": [
-            "[Cloudflare] Found in HTTP Headers: cf-ray"
+            "[Cloudflare] Found keyword in HTML: /cdn-cgi/"
         ]
     },
     {
         "domain": "empresasori.com",
         "found": [
-            "WordPress"
+            "Lodash",
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-includes"
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found script source: woocommerce",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Lodash] Found script source: lodash.min.js"
         ]
     },
     {
@@ -322,10 +480,14 @@
     {
         "domain": "5w.design",
         "found": [
+            "jQuery",
+            "WordPress",
             "Cloudflare"
         ],
         "proofs": [
-            "[Cloudflare] Found in HTTP Headers: cf-ray"
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Cloudflare] Found keyword in HTML: /cdn-cgi/"
         ]
     },
     {
@@ -341,10 +503,12 @@
     {
         "domain": "centreconsiliereavort.ro",
         "found": [
+            "jQuery",
             "WordPress"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-includes"
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
@@ -359,23 +523,44 @@
     {
         "domain": "11853prospecthill.com",
         "found": [
-            "Cloudflare"
+            "Google Analytics",
+            "jQuery",
+            "Cloudflare",
+            "Facebook Pixel"
         ],
         "proofs": [
+            "[Google Analytics] Found script source: googletagmanager",
+            "[Facebook Pixel] Found keyword in HTML: fbq(",
+            "[jQuery] Found script source: jquery.min.js",
             "[Cloudflare] Found script source: /cdn-cgi/"
         ]
     },
     {
         "domain": "passwordstore.it",
-        "error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+        "found": [
+            "Google Analytics",
+            "WooCommerce",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[Google Analytics] Found keyword in HTML: googletagmanager"
+        ]
     },
     {
         "domain": "avocatalinamanciu.ro",
         "found": [
-            "WordPress"
+            "Google Analytics",
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-content"
+            "[WordPress] Found script source: wp-content",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
@@ -384,60 +569,96 @@
     },
     {
         "domain": "dssfla.com",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Google Analytics",
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "weducars.co.za",
         "found": [
-            "WordPress"
+            "Google Analytics",
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-includes"
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found script source: woocommerce",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
         "domain": "4stonebuildings.com",
         "found": [
-            "Cloudflare",
-            "WordPress"
+            "Google Analytics",
+            "jQuery",
+            "WordPress",
+            "Cloudflare"
         ],
         "proofs": [
             "[WordPress] Found script source: wp-content",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js",
             "[Cloudflare] Found in HTTP Headers: cf-ray"
         ]
     },
     {
         "domain": "maniaupiekszania.pl",
         "found": [
-            "WordPress"
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-content"
+            "[WordPress] Found script source: wp-content",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[jQuery] Found script source: jquery.js"
         ]
     },
     {
         "domain": "sprucemeadowsmd.com",
         "found": [
+            "jQuery",
             "WordPress"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-includes"
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
         "domain": "natedea.co.uk",
         "found": [
-            "WordPress"
+            "Google Analytics",
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-content"
+            "[WordPress] Found script source: wp-content",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
         "domain": "loizillon.com",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Google Analytics"
+        ],
+        "proofs": [
+            "[Google Analytics] Found script source: googletagmanager"
+        ]
     },
     {
         "domain": "haus-muehlenfeld-pommerby.de",
@@ -447,25 +668,37 @@
     {
         "domain": "arenaskolor.se",
         "found": [
+            "jQuery",
             "WordPress"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-includes"
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
         "domain": "boken.ch",
         "found": [
+            "jQuery",
             "WordPress"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-includes"
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
         "domain": "restwellstreetmedicalcentre.com.au",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Google Analytics",
+            "jQuery",
+            "Bootstrap"
+        ],
+        "proofs": [
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Bootstrap] Found script source: bootstrap.min.js"
+        ]
     },
     {
         "domain": "den-a-sha.co.jp",
@@ -475,11 +708,17 @@
     {
         "domain": "365outsource.com",
         "found": [
-            "Cloudflare",
-            "WordPress"
+            "WordPress",
+            "jQuery",
+            "Google Analytics",
+            "WooCommerce",
+            "Cloudflare"
         ],
         "proofs": [
             "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js",
             "[Cloudflare] Found script source: /cdn-cgi/"
         ]
     },
@@ -495,53 +734,90 @@
     },
     {
         "domain": "skywayrestaurants.net",
-        "found": [],
-        "proofs": []
+        "found": [
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "2020wealthadvisory.com",
         "found": [
-            "Cloudflare",
-            "WordPress"
+            "jQuery",
+            "WordPress",
+            "Cloudflare"
         ],
         "proofs": [
             "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js",
             "[Cloudflare] Found script source: /cdn-cgi/"
         ]
     },
     {
         "domain": "hnafirm.com",
-        "found": [],
-        "proofs": []
+        "found": [
+            "jQuery",
+            "WordPress",
+            "Bootstrap"
+        ],
+        "proofs": [
+            "[WordPress] Found keyword in HTML: wp-content",
+            "[jQuery] Found script source: jquery.js",
+            "[Bootstrap] Found script source: bootstrap.bundle.min.js"
+        ]
     },
     {
         "domain": "itsolutions24.pl",
         "found": [
+            "jQuery",
             "WordPress"
         ],
         "proofs": [
-            "[WordPress] Found script source: wp-includes"
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js"
         ]
     },
     {
         "domain": "aaice.net",
         "found": [
-            "Cloudflare",
-            "WordPress"
+            "WordPress",
+            "jQuery",
+            "Google Analytics",
+            "WooCommerce",
+            "Cloudflare"
         ],
         "proofs": [
             "[WordPress] Found script source: wp-content",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js",
             "[Cloudflare] Found in HTTP Headers: cf-ray"
         ]
     },
     {
         "domain": "ecolab.com",
-        "error": "HTTPSConnectionPool(host='www.ecolab.com', port=443): Read timed out. (read timeout=10)"
+        "found": [
+            "Google Analytics"
+        ],
+        "proofs": [
+            "[Google Analytics] Found script source: googletagmanager"
+        ]
     },
     {
         "domain": "mehmetefendimacedonia.com",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Google Analytics",
+            "jQuery"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: google-analytics.com",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "laplumedelisibilite.fr",
@@ -555,34 +831,69 @@
     {
         "domain": "2ldm.com",
         "found": [
-            "Cloudflare",
-            "WordPress"
+            "Google Analytics",
+            "jQuery",
+            "WordPress",
+            "Cloudflare"
         ],
         "proofs": [
             "[WordPress] Found script source: wp-includes",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js",
             "[Cloudflare] Found in HTTP Headers: cf-ray"
         ]
     },
     {
         "domain": "westchesterpointechiro.com",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Google Analytics",
+            "jQuery"
+        ],
+        "proofs": [
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "cei-expertises.fr",
-        "error": "HTTPSConnectionPool(host='www.cei-expertises.fr', port=443): Read timed out. (read timeout=10)"
+        "found": [
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "seringa-safaris.com",
-        "found": [],
-        "proofs": []
+        "found": [
+            "WordPress",
+            "jQuery",
+            "Google Analytics",
+            "Joomla",
+            "Bootstrap"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Joomla] Found script source: /media/jui/js/",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Bootstrap] Found script source: bootstrap.min.js"
+        ]
     },
     {
         "domain": "1planettechnologies.weebly.com",
         "found": [
+            "Google Analytics",
+            "jQuery",
             "Cloudflare"
         ],
         "proofs": [
+            "[Google Analytics] Found keyword in HTML: google-analytics.com",
+            "[jQuery] Found script source: jquery.min.js",
             "[Cloudflare] Found script source: /cdn-cgi/"
         ]
     },
@@ -592,31 +903,56 @@
     },
     {
         "domain": "premierhomeremodeling.net",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Next.js"
+        ],
+        "proofs": [
+            "[Next.js] Found script source: _next/static"
+        ]
     },
     {
         "domain": "bas-ingenieria.cl",
-        "error": "HTTPConnectionPool(host='bas-ingenieria.cl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='bas-ingenieria.cl', port=80): Failed to resolve 'bas-ingenieria.cl' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Bootstrap"
+        ],
+        "proofs": [
+            "[Bootstrap] Found script source: bootstrap.bundle.min.js"
+        ]
     },
     {
         "domain": "produkttheater.de",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Google Analytics"
+        ],
+        "proofs": [
+            "[Google Analytics] Found script source: googletagmanager"
+        ]
     },
     {
         "domain": "unnames.com",
         "found": [
+            "Shopify",
             "Cloudflare"
         ],
         "proofs": [
+            "[Shopify] Found keyword in HTML: cdn.shopify.com",
             "[Cloudflare] Found in HTTP Headers: cf-ray"
         ]
     },
     {
         "domain": "handycars.com",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Google Analytics",
+            "React",
+            "Bootstrap",
+            "Facebook Pixel"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: googletagmanager",
+            "[Facebook Pixel] Found keyword in HTML: connect.facebook.net/en_us/fbevents.js",
+            "[React] Found script source: react.production",
+            "[Bootstrap] Found script source: bootstrap.min.js"
+        ]
     },
     {
         "domain": "antikebau.de",
@@ -626,15 +962,32 @@
     {
         "domain": "3strandschurch.org",
         "found": [
-            "Cloudflare"
+            "WooCommerce",
+            "WordPress",
+            "Cloudflare",
+            "jQuery"
         ],
         "proofs": [
-            "[Cloudflare] Found in HTTP Headers: cf-ray"
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Cloudflare] Found keyword in HTML: /cdn-cgi/"
         ]
     },
     {
         "domain": "alabamabuildingcontractor.com",
-        "error": "HTTPSConnectionPool(host='alabamabuildingcontractor.com', port=443): Read timed out. (read timeout=10)"
+        "found": [
+            "WooCommerce",
+            "WordPress",
+            "Cloudflare",
+            "jQuery"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "resourceservicesolutions.com",
@@ -648,11 +1001,25 @@
     },
     {
         "domain": "sevecoitalia.com",
-        "error": "HTTPSConnectionPool(host='www.sevecoitalia.com', port=443): Read timed out. (read timeout=10)"
+        "found": [
+            "Google Analytics"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: googletagmanager"
+        ]
     },
     {
         "domain": "nielsbirk.dk",
-        "error": "HTTPSConnectionPool(host='karllund.dk', port=443): Read timed out. (read timeout=10)"
+        "found": [
+            "Google Analytics",
+            "Mailchimp",
+            "Facebook Pixel"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: gtag.js",
+            "[Facebook Pixel] Found keyword in HTML: connect.facebook.net/en_us/fbevents.js",
+            "[Mailchimp] Found keyword in HTML: chimpstatic.com"
+        ]
     },
     {
         "domain": "branson-connection.com",
@@ -661,16 +1028,29 @@
     },
     {
         "domain": "phucankhanggroup.com",
-        "error": "('Connection aborted.', ConnectionResetError(10054, 'An existing connection was forcibly closed by the remote host', None, 10054, None))"
+        "found": [
+            "jQuery",
+            "Bootstrap"
+        ],
+        "proofs": [
+            "[jQuery] Found script source: jquery.min.js",
+            "[Bootstrap] Found script source: bootstrap.min.js"
+        ]
     },
     {
         "domain": "roccofortehotels.cn",
-        "error": "HTTPSConnectionPool(host='www.roccofortehotels.cn', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.roccofortehotels.cn', port=443) at 0x1d30df9f750>, 'Connection to www.roccofortehotels.cn timed out. (connect timeout=10)'))"
+        "found": [
+            "jQuery",
+            "Moment.js"
+        ],
+        "proofs": [
+            "[jQuery] Found script source: jquery.min.js",
+            "[Moment.js] Found script source: moment.min.js"
+        ]
     },
     {
         "domain": "everhartsoutdoor.com",
-        "found": [],
-        "proofs": []
+        "error": "HTTPSConnectionPool(host='www.everhartsoutdoor.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.everhartsoutdoor.com'. (_ssl.c:1081)\")))"
     },
     {
         "domain": "europeaninns.com",
@@ -679,13 +1059,21 @@
     },
     {
         "domain": "massageforworldpeace.com",
-        "found": [],
-        "proofs": []
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator"
+        ]
     },
     {
         "domain": "cultivateventures.co.nz",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Squarespace"
+        ],
+        "proofs": [
+            "[Squarespace] Found script source: squarespace.com"
+        ]
     },
     {
         "domain": "amaronbattery.in",
@@ -694,226 +1082,623 @@
     },
     {
         "domain": "radxmobile.com",
-        "found": [],
-        "proofs": []
+        "found": [
+            "React",
+            "Wix",
+            "Lodash",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Wix] Found keyword in HTML: wix.com",
+            "[React] Found script source: react.production",
+            "[Lodash] Found script source: lodash.min.js"
+        ]
     },
     {
         "domain": "2-com.net",
-        "found": [],
-        "proofs": []
+        "found": [
+            "Google Analytics",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Google Analytics] Found script source: googletagmanager",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "3bsexcavating.com",
+        "found": [
+            "WordPress",
+            "jQuery",
+            "Google Analytics",
+            "WooCommerce",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[Google Analytics] Found keyword in HTML: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Cloudflare] Found keyword in HTML: /cdn-cgi/"
+        ]
+    },
+    {
+        "domain": "weissbauchpapageien.de",
         "found": [],
         "proofs": []
     },
     {
-        "domain": "weissbauchpapageien.de",
-        "error": "HTTPConnectionPool(host='weissbauchpapageien.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='weissbauchpapageien.de', port=80): Failed to resolve 'weissbauchpapageien.de' ([Errno 11001] getaddrinfo failed)\"))"
-    },
-    {
         "domain": "959marine.com",
-        "error": "HTTPConnectionPool(host='959marine.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='959marine.com', port=80): Failed to resolve '959marine.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: google-analytics.com",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "hansis-knusperhendl-foodtruck.eatbu.com",
-        "error": "HTTPConnectionPool(host='hansis-knusperhendl-foodtruck.eatbu.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='hansis-knusperhendl-foodtruck.eatbu.com', port=80): Failed to resolve 'hansis-knusperhendl-foodtruck.eatbu.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: googletagmanager"
+        ]
     },
     {
         "domain": "broganlmt.com",
-        "error": "HTTPConnectionPool(host='broganlmt.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='broganlmt.com', port=80): Failed to resolve 'broganlmt.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "React",
+            "Wix",
+            "Lodash",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Wix] Found keyword in HTML: wix.com",
+            "[React] Found script source: react.production",
+            "[Lodash] Found script source: lodash.min.js"
+        ]
     },
     {
         "domain": "juanmunozhomesmart.com",
-        "error": "HTTPConnectionPool(host='juanmunozhomesmart.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='juanmunozhomesmart.com', port=80): Failed to resolve 'juanmunozhomesmart.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "Facebook Pixel"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: google-analytics.com",
+            "[Facebook Pixel] Found keyword in HTML: connect.facebook.net/en_us/fbevents.js"
+        ]
     },
     {
         "domain": "buchhaltungsservice-koenig.de",
-        "error": "HTTPConnectionPool(host='buchhaltungsservice-koenig.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='buchhaltungsservice-koenig.de', port=80): Failed to resolve 'buchhaltungsservice-koenig.de' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "solvos.nl",
-        "error": "HTTPConnectionPool(host='solvos.nl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='solvos.nl', port=80): Failed to resolve 'solvos.nl' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "jQuery",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[Google Analytics] Found keyword in HTML: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "261welfarefund.com",
-        "error": "HTTPConnectionPool(host='261welfarefund.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='261welfarefund.com', port=80): Failed to resolve '261welfarefund.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WordPress",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[Cloudflare] Found keyword in HTML: /cdn-cgi/"
+        ]
     },
     {
         "domain": "costa-coffee.be",
-        "error": "HTTPConnectionPool(host='costa-coffee.be', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='costa-coffee.be', port=80): Failed to resolve 'costa-coffee.be' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Google Analytics] Found keyword in HTML: googletagmanager"
+        ]
     },
     {
         "domain": "startravelcompany.com",
-        "error": "HTTPConnectionPool(host='startravelcompany.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='startravelcompany.com', port=80): Failed to resolve 'startravelcompany.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "error": "HTTPConnectionPool(host='startravelcompany.com', port=80): Read timed out. (read timeout=10)"
     },
     {
         "domain": "disinfestazioniepiscine.it",
-        "error": "HTTPConnectionPool(host='disinfestazioniepiscine.it', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='disinfestazioniepiscine.it', port=80): Failed to resolve 'disinfestazioniepiscine.it' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "jQuery",
+            "WordPress",
+            "Facebook Pixel"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[Google Analytics] Found keyword in HTML: google-analytics.com",
+            "[Facebook Pixel] Found keyword in HTML: connect.facebook.net/en_us/fbevents.js",
+            "[jQuery] Found script source: jquery.js"
+        ]
     },
     {
         "domain": "lscms.org",
-        "error": "HTTPConnectionPool(host='lscms.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='lscms.org', port=80): Failed to resolve 'lscms.org' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery",
+            "WordPress",
+            "Bootstrap"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Bootstrap] Found script source: bootstrap.bundle.min.js"
+        ]
     },
     {
         "domain": "3dwealthadvisory.com",
-        "error": "HTTPConnectionPool(host='3dwealthadvisory.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='3dwealthadvisory.com', port=80): Failed to resolve '3dwealthadvisory.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WooCommerce",
+            "WordPress",
+            "Cloudflare",
+            "jQuery"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "jackwills.com",
-        "error": "HTTPConnectionPool(host='jackwills.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='jackwills.com', port=80): Failed to resolve 'jackwills.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "Next.js"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: googletagmanager",
+            "[Next.js] Found keyword in HTML: _next/static"
+        ]
     },
     {
         "domain": "nevsproductions.com",
-        "error": "HTTPConnectionPool(host='nevsproductions.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='nevsproductions.com', port=80): Failed to resolve 'nevsproductions.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "error": "HTTPSConnectionPool(host='www.nevsproductions.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nevsproductions.com'. (_ssl.c:1081)\")))"
     },
     {
         "domain": "kande-hoikuen.ed.jp",
-        "error": "HTTPConnectionPool(host='kande-hoikuen.ed.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='kande-hoikuen.ed.jp', port=80): Failed to resolve 'kande-hoikuen.ed.jp' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery"
+        ],
+        "proofs": [
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "orifoodsco.com",
-        "error": "HTTPConnectionPool(host='orifoodsco.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='orifoodsco.com', port=80): Failed to resolve 'orifoodsco.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Squarespace"
+        ],
+        "proofs": [
+            "[Squarespace] Found script source: squarespace.com"
+        ]
     },
     {
         "domain": "deerfieldbeachautomall.com",
-        "error": "HTTPConnectionPool(host='deerfieldbeachautomall.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='deerfieldbeachautomall.com', port=80): Failed to resolve 'deerfieldbeachautomall.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "React",
+            "Bootstrap"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: googletagmanager",
+            "[React] Found script source: react.production",
+            "[Bootstrap] Found script source: bootstrap.min.js"
+        ]
     },
     {
         "domain": "insieme.stanford.edu",
-        "error": "HTTPConnectionPool(host='insieme.stanford.edu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='insieme.stanford.edu', port=80): Failed to resolve 'insieme.stanford.edu' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "jQuery",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "layer7innovations.ca",
-        "error": "HTTPConnectionPool(host='layer7innovations.ca', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='layer7innovations.ca', port=80): Failed to resolve 'layer7innovations.ca' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery",
+            "Cloudflare",
+            "Bootstrap"
+        ],
+        "proofs": [
+            "[jQuery] Found script source: jquery.min.js",
+            "[Bootstrap] Found script source: bootstrap.min.js",
+            "[Cloudflare] Found script source: /cdn-cgi/"
+        ]
     },
     {
         "domain": "makpharma-eg.com",
-        "error": "HTTPConnectionPool(host='makpharma-eg.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='makpharma-eg.com', port=80): Failed to resolve 'makpharma-eg.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator"
+        ]
     },
     {
         "domain": "ejc-courtage-assurances.fr",
-        "error": "HTTPConnectionPool(host='ejc-courtage-assurances.fr', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='ejc-courtage-assurances.fr', port=80): Failed to resolve 'ejc-courtage-assurances.fr' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery"
+        ],
+        "proofs": [
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "ferrateoxidant.com",
-        "error": "HTTPConnectionPool(host='ferrateoxidant.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='ferrateoxidant.com', port=80): Failed to resolve 'ferrateoxidant.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "oakwell.vet",
-        "error": "HTTPConnectionPool(host='oakwell.vet', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='oakwell.vet', port=80): Failed to resolve 'oakwell.vet' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "jQuery",
+            "WordPress",
+            "Facebook Pixel"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[Google Analytics] Found keyword in HTML: gtag.js",
+            "[Facebook Pixel] Found keyword in HTML: connect.facebook.net/en_us/fbevents.js",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "mysterion.hr",
-        "error": "HTTPConnectionPool(host='mysterion.hr', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='mysterion.hr', port=80): Failed to resolve 'mysterion.hr' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WordPress",
+            "jQuery",
+            "Google Analytics",
+            "WooCommerce",
+            "Cloudflare",
+            "Bootstrap"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.js",
+            "[Bootstrap] Found script source: bootstrap.min.js",
+            "[Cloudflare] Found script source: /cdn-cgi/"
+        ]
     },
     {
         "domain": "howellmotors.com",
-        "error": "HTTPConnectionPool(host='howellmotors.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='howellmotors.com', port=80): Failed to resolve 'howellmotors.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "React",
+            "Bootstrap"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: googletagmanager",
+            "[React] Found script source: react.production",
+            "[Bootstrap] Found script source: bootstrap.min.js"
+        ]
     },
     {
         "domain": "lorenz-baumarkt.de",
-        "error": "HTTPConnectionPool(host='lorenz-baumarkt.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='lorenz-baumarkt.de', port=80): Failed to resolve 'lorenz-baumarkt.de' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "PayPal"
+        ],
+        "proofs": [
+            "[PayPal] Found script source: paypal.com/sdk"
+        ]
     },
     {
         "domain": "eclairage-solaire-occitanie.com",
-        "error": "HTTPConnectionPool(host='eclairage-solaire-occitanie.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='eclairage-solaire-occitanie.com', port=80): Failed to resolve 'eclairage-solaire-occitanie.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "React",
+            "Wix",
+            "Lodash",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Wix] Found keyword in HTML: wix.com",
+            "[React] Found script source: react.production",
+            "[Lodash] Found script source: lodash.min.js"
+        ]
     },
     {
         "domain": "cmc01village.com",
-        "error": "HTTPConnectionPool(host='cmc01village.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='cmc01village.com', port=80): Failed to resolve 'cmc01village.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "WordPress",
+            "Cloudflare",
+            "Webflow"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Webflow] Found in Meta Tag: webflow",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "maiquotes.net",
-        "error": "HTTPConnectionPool(host='maiquotes.net', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='maiquotes.net', port=80): Failed to resolve 'maiquotes.net' ([Errno 11001] getaddrinfo failed)\"))"
+        "error": "HTTPSConnectionPool(host='maiquotes.net', port=443): Max retries exceeded with url: /site/index.php (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'maiquotes.net'. (_ssl.c:1081)\")))"
     },
     {
         "domain": "cmresolutions.com",
-        "error": "HTTPConnectionPool(host='cmresolutions.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='cmresolutions.com', port=80): Failed to resolve 'cmresolutions.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator"
+        ]
     },
     {
         "domain": "wglchurch.com",
-        "error": "HTTPConnectionPool(host='wglchurch.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='wglchurch.com', port=80): Failed to resolve 'wglchurch.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [],
+        "proofs": []
     },
     {
         "domain": "nwmotorinn.com",
-        "error": "HTTPConnectionPool(host='nwmotorinn.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='nwmotorinn.com', port=80): Failed to resolve 'nwmotorinn.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "React",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[React] Found script source: react.production",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "dorpsbelangen.nu",
-        "error": "HTTPConnectionPool(host='dorpsbelangen.nu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='dorpsbelangen.nu', port=80): Failed to resolve 'dorpsbelangen.nu' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WordPress",
+            "Moment.js",
+            "jQuery",
+            "Varnish",
+            "WooCommerce"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Moment.js] Found script source: moment.min.js",
+            "[Varnish] Found in HTTP Headers: x-varnish"
+        ]
     },
     {
         "domain": "littlerockafamily.de",
-        "error": "HTTPConnectionPool(host='littlerockafamily.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='littlerockafamily.de', port=80): Failed to resolve 'littlerockafamily.de' ([Errno 11001] getaddrinfo failed)\"))"
+        "error": "HTTPConnectionPool(host='littlerockafamily.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='littlerockafamily.de', port=80): Failed to resolve 'littlerockafamily.de' ([Errno 11002] getaddrinfo failed)\"))"
     },
     {
         "domain": "evelynanders.com",
-        "error": "HTTPConnectionPool(host='evelynanders.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='evelynanders.com', port=80): Failed to resolve 'evelynanders.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Varnish"
+        ],
+        "proofs": [
+            "[Varnish] Found in HTTP Headers: x-varnish"
+        ]
     },
     {
         "domain": "domekvefaru.com",
-        "error": "HTTPConnectionPool(host='domekvefaru.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='domekvefaru.com', port=80): Failed to resolve 'domekvefaru.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Google Analytics] Found keyword in HTML: googletagmanager"
+        ]
     },
     {
         "domain": "sdmdjentertainment.com",
-        "error": "HTTPConnectionPool(host='sdmdjentertainment.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='sdmdjentertainment.com', port=80): Failed to resolve 'sdmdjentertainment.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "PayPal",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[PayPal] Found keyword in HTML: paypalobjects.com"
+        ]
     },
     {
         "domain": "ideenhunger.com",
-        "error": "HTTPConnectionPool(host='ideenhunger.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='ideenhunger.com', port=80): Failed to resolve 'ideenhunger.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Hotjar",
+            "Google Analytics",
+            "LinkedIn Insights",
+            "Cloudflare",
+            "Facebook Pixel"
+        ],
+        "proofs": [
+            "[Google Analytics] Found script source: googletagmanager",
+            "[Facebook Pixel] Found keyword in HTML: connect.facebook.net/en_us/fbevents.js",
+            "[Hotjar] Found keyword in HTML: static.hotjar.com",
+            "[LinkedIn Insights] Found keyword in HTML: snap.licdn.com",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "jenniferbacksteininteriors.com",
-        "error": "HTTPConnectionPool(host='jenniferbacksteininteriors.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='jenniferbacksteininteriors.com', port=80): Failed to resolve 'jenniferbacksteininteriors.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Squarespace"
+        ],
+        "proofs": [
+            "[Squarespace] Found script source: squarespace.com"
+        ]
     },
     {
         "domain": "elcolegiocongresosyrestaurante.com",
-        "error": "HTTPConnectionPool(host='elcolegiocongresosyrestaurante.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='elcolegiocongresosyrestaurante.com', port=80): Failed to resolve 'elcolegiocongresosyrestaurante.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [],
+        "proofs": []
     },
     {
         "domain": "northshoremacnut.com",
-        "error": "HTTPConnectionPool(host='northshoremacnut.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='northshoremacnut.com', port=80): Failed to resolve 'northshoremacnut.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "React",
+            "Wix",
+            "Lodash",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Wix] Found keyword in HTML: wix.com",
+            "[React] Found script source: react.production",
+            "[Lodash] Found script source: lodash.min.js"
+        ]
     },
     {
         "domain": "powercleaning.services",
-        "error": "HTTPConnectionPool(host='powercleaning.services', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='powercleaning.services', port=80): Failed to resolve 'powercleaning.services' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [],
+        "proofs": []
     },
     {
         "domain": "stoperbis.pl",
-        "error": "HTTPConnectionPool(host='stoperbis.pl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='stoperbis.pl', port=80): Failed to resolve 'stoperbis.pl' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "jQuery"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: google-analytics.com",
+            "[jQuery] Found script source: jquery.js"
+        ]
     },
     {
         "domain": "verticalcommunitychurch.com",
-        "error": "HTTPConnectionPool(host='verticalcommunitychurch.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='verticalcommunitychurch.com', port=80): Failed to resolve 'verticalcommunitychurch.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "error": "HTTPConnectionPool(host='verticalcommunitychurch.com', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='verticalcommunitychurch.com', port=80) at 0x1efadd41590>, 'Connection to verticalcommunitychurch.com timed out. (connect timeout=10)'))"
     },
     {
         "domain": "gitesducharmois.fr",
-        "error": "HTTPConnectionPool(host='gitesducharmois.fr', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='gitesducharmois.fr', port=80): Failed to resolve 'gitesducharmois.fr' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "React",
+            "Wix",
+            "Lodash",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Wix] Found keyword in HTML: wix.com",
+            "[React] Found script source: react.production",
+            "[Lodash] Found script source: lodash.min.js"
+        ]
     },
     {
         "domain": "allegrocreditbeta.com",
-        "error": "HTTPConnectionPool(host='allegrocreditbeta.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='allegrocreditbeta.com', port=80): Failed to resolve 'allegrocreditbeta.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery",
+            "Amazon CloudFront"
+        ],
+        "proofs": [
+            "[jQuery] Found script source: jquery.min.js",
+            "[Amazon CloudFront] Found in HTTP Headers: x-amz-cf-id"
+        ]
     },
     {
         "domain": "hoffmaninstitute.co.uk",
-        "error": "HTTPConnectionPool(host='hoffmaninstitute.co.uk', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='hoffmaninstitute.co.uk', port=80): Failed to resolve 'hoffmaninstitute.co.uk' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WordPress",
+            "Moment.js",
+            "jQuery",
+            "WooCommerce",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found script source: woocommerce",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Moment.js] Found script source: moment.min.js",
+            "[Cloudflare] Found script source: /cdn-cgi/"
+        ]
     },
     {
         "domain": "a3sec.com",
-        "error": "HTTPConnectionPool(host='a3sec.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='a3sec.com', port=80): Failed to resolve 'a3sec.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "WordPress",
+            "Cloudflare",
+            "Hotjar"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[Hotjar] Found keyword in HTML: static.hotjar.com",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "concrete-fitness.edan.io",
-        "error": "HTTPConnectionPool(host='concrete-fitness.edan.io', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='concrete-fitness.edan.io', port=80): Failed to resolve 'concrete-fitness.edan.io' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery",
+            "Yandex Metrika",
+            "Google Analytics",
+            "Cloudflare",
+            "Bootstrap"
+        ],
+        "proofs": [
+            "[Google Analytics] Found script source: googletagmanager",
+            "[Yandex Metrika] Found keyword in HTML: mc.yandex.ru/metrika",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Bootstrap] Found script source: bootstrap.bundle.min.js",
+            "[Cloudflare] Found keyword in HTML: /cdn-cgi/"
+        ]
     },
     {
         "domain": "nicholsonchiro.com",
-        "error": "HTTPConnectionPool(host='nicholsonchiro.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='nicholsonchiro.com', port=80): Failed to resolve 'nicholsonchiro.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "la-residenza-del-principe-rome-it.booked.net",
-        "error": "HTTPConnectionPool(host='la-residenza-del-principe-rome-it.booked.net', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='la-residenza-del-principe-rome-it.booked.net', port=80): Failed to resolve 'la-residenza-del-principe-rome-it.booked.net' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "jonesbuickgmc.com",
@@ -921,59 +1706,165 @@
     },
     {
         "domain": "xn--jobvrkstedet-9cb.nu",
-        "error": "HTTPConnectionPool(host='xn--jobvrkstedet-9cb.nu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='xn--jobvrkstedet-9cb.nu', port=80): Failed to resolve 'xn--jobvrkstedet-9cb.nu' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [],
+        "proofs": []
     },
     {
         "domain": "appelpsychotherapy.com",
-        "error": "HTTPConnectionPool(host='appelpsychotherapy.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='appelpsychotherapy.com', port=80): Failed to resolve 'appelpsychotherapy.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "React",
+            "Wix",
+            "Lodash",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Wix] Found keyword in HTML: wix.com",
+            "[React] Found script source: react.production",
+            "[Lodash] Found script source: lodash.min.js"
+        ]
     },
     {
         "domain": "brucebournesold.com",
-        "error": "HTTPConnectionPool(host='brucebournesold.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='brucebournesold.com', port=80): Failed to resolve 'brucebournesold.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "Facebook Pixel"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: google-analytics.com",
+            "[Facebook Pixel] Found keyword in HTML: connect.facebook.net/en_us/fbevents.js"
+        ]
     },
     {
         "domain": "pcb-cpb.com",
-        "error": "HTTPConnectionPool(host='pcb-cpb.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='pcb-cpb.com', port=80): Failed to resolve 'pcb-cpb.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "React",
+            "Wix",
+            "Lodash",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Wix] Found keyword in HTML: wix.com",
+            "[React] Found script source: react.production",
+            "[Lodash] Found script source: lodash.min.js"
+        ]
     },
     {
         "domain": "chiantifiorentino.it",
-        "error": "HTTPConnectionPool(host='chiantifiorentino.it', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='chiantifiorentino.it', port=80): Failed to resolve 'chiantifiorentino.it' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "Bootstrap"
+        ],
+        "proofs": [
+            "[Google Analytics] Found script source: googletagmanager",
+            "[Bootstrap] Found script source: bootstrap.bundle.min.js"
+        ]
     },
     {
         "domain": "11thhourracing.org",
-        "error": "HTTPConnectionPool(host='11thhourracing.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='11thhourracing.org', port=80): Failed to resolve '11thhourracing.org' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "jQuery",
+            "WordPress",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[Google Analytics] Found keyword in HTML: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "miratrade.com.tr",
-        "error": "HTTPConnectionPool(host='miratrade.com.tr', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='miratrade.com.tr', port=80): Failed to resolve 'miratrade.com.tr' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WordPress",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[WordPress] Found keyword in HTML: wp-content",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "freo.com.au",
-        "error": "HTTPConnectionPool(host='freo.com.au', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='freo.com.au', port=80): Failed to resolve 'freo.com.au' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery"
+        ],
+        "proofs": [
+            "[jQuery] Found script source: jquery.js"
+        ]
     },
     {
         "domain": "fluxar.com.ar",
-        "error": "HTTPConnectionPool(host='fluxar.com.ar', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='fluxar.com.ar', port=80): Failed to resolve 'fluxar.com.ar' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.js"
+        ]
     },
     {
         "domain": "redpants.jp",
-        "error": "HTTPConnectionPool(host='redpants.jp', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='redpants.jp', port=80): Failed to resolve 'redpants.jp' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Squarespace"
+        ],
+        "proofs": [
+            "[Squarespace] Found script source: squarespace.com"
+        ]
     },
     {
         "domain": "bata.edu.hu",
-        "error": "HTTPConnectionPool(host='bata.edu.hu', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='bata.edu.hu', port=80): Failed to resolve 'bata.edu.hu' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "3-energie-klaas.de",
-        "error": "HTTPConnectionPool(host='3-energie-klaas.de', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='3-energie-klaas.de', port=80): Failed to resolve '3-energie-klaas.de' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "labdemo.com",
-        "error": "HTTPConnectionPool(host='labdemo.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='labdemo.com', port=80): Failed to resolve 'labdemo.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "1ststopsupply.com",
-        "error": "HTTPConnectionPool(host='1ststopsupply.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='1ststopsupply.com', port=80): Failed to resolve '1ststopsupply.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery",
+            "WordPress",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "celiabedilia.com",
@@ -981,110 +1872,287 @@
     },
     {
         "domain": "davidloeppke.com",
-        "error": "HTTPConnectionPool(host='davidloeppke.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='davidloeppke.com', port=80): Failed to resolve 'davidloeppke.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "Varnish"
+        ],
+        "proofs": [
+            "[Google Analytics] Found script source: googletagmanager",
+            "[Varnish] Found in HTTP Headers: x-varnish"
+        ]
     },
     {
         "domain": "wrinkle-pei.cz",
-        "error": "HTTPConnectionPool(host='wrinkle-pei.cz', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='wrinkle-pei.cz', port=80): Failed to resolve 'wrinkle-pei.cz' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [],
+        "proofs": []
     },
     {
         "domain": "koniczynka.info.pl",
-        "error": "HTTPConnectionPool(host='koniczynka.info.pl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='koniczynka.info.pl', port=80): Failed to resolve 'koniczynka.info.pl' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WordPress",
+            "jQuery",
+            "Google Analytics",
+            "WooCommerce",
+            "Facebook Pixel"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found script source: woocommerce",
+            "[Google Analytics] Found keyword in HTML: googletagmanager",
+            "[Facebook Pixel] Found keyword in HTML: connect.facebook.net/en_us/fbevents.js",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "footasylum.com",
-        "error": "HTTPConnectionPool(host='footasylum.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='footasylum.com', port=80): Failed to resolve 'footasylum.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "Bootstrap"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: googletagmanager",
+            "[Bootstrap] Found script source: bootstrap.min.js"
+        ]
     },
     {
         "domain": "2agateway.com",
-        "error": "HTTPConnectionPool(host='2agateway.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='2agateway.com', port=80): Failed to resolve '2agateway.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WordPress",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "ledestjernenstu.dk",
-        "error": "HTTPConnectionPool(host='ledestjernenstu.dk', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='ledestjernenstu.dk', port=80): Failed to resolve 'ledestjernenstu.dk' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [],
+        "proofs": []
     },
     {
         "domain": "1stlocksheathscouts.org.uk",
-        "error": "HTTPConnectionPool(host='1stlocksheathscouts.org.uk', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='1stlocksheathscouts.org.uk', port=80): Failed to resolve '1stlocksheathscouts.org.uk' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery",
+            "WordPress",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Cloudflare] Found script source: /cdn-cgi/"
+        ]
     },
     {
         "domain": "tamcconstruction.net",
-        "error": "HTTPConnectionPool(host='tamcconstruction.net', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='tamcconstruction.net', port=80): Failed to resolve 'tamcconstruction.net' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "jQuery",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[Google Analytics] Found keyword in HTML: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "abbikadabbisbakingco.com",
-        "error": "HTTPConnectionPool(host='abbikadabbisbakingco.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='abbikadabbisbakingco.com', port=80): Failed to resolve 'abbikadabbisbakingco.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WordPress",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "herbalwise.ie",
-        "error": "HTTPConnectionPool(host='herbalwise.ie', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='herbalwise.ie', port=80): Failed to resolve 'herbalwise.ie' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "PayPal",
+            "Shopify",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Shopify] Found keyword in HTML: cdn.shopify.com",
+            "[Cloudflare] Found in HTTP Headers: cf-ray",
+            "[PayPal] Found keyword in HTML: paypal.com/sdk"
+        ]
     },
     {
         "domain": "deepseass.com",
-        "error": "HTTPConnectionPool(host='deepseass.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='deepseass.com', port=80): Failed to resolve 'deepseass.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "jQuery",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[Google Analytics] Found keyword in HTML: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "aardvarkelectriccorp.com",
-        "error": "HTTPConnectionPool(host='aardvarkelectriccorp.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='aardvarkelectriccorp.com', port=80): Failed to resolve 'aardvarkelectriccorp.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found keyword in HTML: /cdn-cgi/"
+        ]
     },
     {
         "domain": "needaphysio.com",
-        "error": "HTTPConnectionPool(host='needaphysio.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='needaphysio.com', port=80): Failed to resolve 'needaphysio.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "React",
+            "Wix",
+            "Lodash",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found in Meta Tag: generator",
+            "[Wix] Found keyword in HTML: wix.com",
+            "[React] Found script source: react.production",
+            "[Lodash] Found script source: lodash.min.js"
+        ]
     },
     {
         "domain": "thomasrosenbaum.com",
-        "error": "HTTPConnectionPool(host='thomasrosenbaum.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='thomasrosenbaum.com', port=80): Failed to resolve 'thomasrosenbaum.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Squarespace"
+        ],
+        "proofs": [
+            "[Squarespace] Found script source: squarespace.com"
+        ]
     },
     {
         "domain": "100wwcstlw.org",
-        "error": "HTTPConnectionPool(host='100wwcstlw.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='100wwcstlw.org', port=80): Failed to resolve '100wwcstlw.org' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "shapirolawfirm.com",
-        "error": "HTTPConnectionPool(host='shapirolawfirm.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='shapirolawfirm.com', port=80): Failed to resolve 'shapirolawfirm.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "joseph-herber.business.site",
-        "error": "HTTPConnectionPool(host='joseph-herber.business.site', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='joseph-herber.business.site', port=80): Failed to resolve 'joseph-herber.business.site' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [],
+        "proofs": []
     },
     {
         "domain": "arol.cl",
-        "error": "HTTPConnectionPool(host='arol.cl', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='arol.cl', port=80): Failed to resolve 'arol.cl' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [],
+        "proofs": []
     },
     {
         "domain": "sindacatobadanti.it",
-        "error": "HTTPConnectionPool(host='sindacatobadanti.it', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='sindacatobadanti.it', port=80): Failed to resolve 'sindacatobadanti.it' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery",
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "1stclairavewest.com",
-        "error": "HTTPConnectionPool(host='1stclairavewest.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='1stclairavewest.com', port=80): Failed to resolve '1stclairavewest.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Cloudflare] Found keyword in HTML: /cdn-cgi/"
+        ]
     },
     {
         "domain": "lighthouseprc.org",
-        "error": "HTTPConnectionPool(host='lighthouseprc.org', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='lighthouseprc.org', port=80): Failed to resolve 'lighthouseprc.org' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "jQuery",
+            "WordPress",
+            "TikTok Pixel"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content",
+            "[Google Analytics] Found keyword in HTML: google-analytics.com",
+            "[TikTok Pixel] Found keyword in HTML: analytics.tiktok.com",
+            "[jQuery] Found keyword in HTML: jquery.min.js"
+        ]
     },
     {
         "domain": "5rcircleprocess.weebly.com",
-        "error": "HTTPConnectionPool(host='5rcircleprocess.weebly.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='5rcircleprocess.weebly.com', port=80): Failed to resolve '5rcircleprocess.weebly.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "jQuery",
+            "Cloudflare"
+        ],
+        "proofs": [
+            "[Google Analytics] Found keyword in HTML: google-analytics.com",
+            "[jQuery] Found script source: jquery.min.js",
+            "[Cloudflare] Found in HTTP Headers: cf-ray"
+        ]
     },
     {
         "domain": "unitedveterinaryservice.com",
-        "error": "HTTPConnectionPool(host='unitedveterinaryservice.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='unitedveterinaryservice.com', port=80): Failed to resolve 'unitedveterinaryservice.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found keyword in HTML: woocommerce",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "construccionesyatecnicas.com",
-        "error": "HTTPConnectionPool(host='construccionesyatecnicas.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='construccionesyatecnicas.com', port=80): Failed to resolve 'construccionesyatecnicas.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "jQuery"
+        ],
+        "proofs": [
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "joburgheritage.org.za",
-        "error": "HTTPConnectionPool(host='joburgheritage.org.za', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='joburgheritage.org.za', port=80): Failed to resolve 'joburgheritage.org.za' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "Google Analytics",
+            "WooCommerce",
+            "WordPress",
+            "jQuery"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-includes",
+            "[WooCommerce] Found script source: woocommerce",
+            "[Google Analytics] Found script source: googletagmanager",
+            "[jQuery] Found script source: jquery.min.js"
+        ]
     },
     {
         "domain": "bfnelson.it",
-        "error": "HTTPConnectionPool(host='bfnelson.it', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='bfnelson.it', port=80): Failed to resolve 'bfnelson.it' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [
+            "WordPress"
+        ],
+        "proofs": [
+            "[WordPress] Found script source: wp-content"
+        ]
     },
     {
         "domain": "rivithead.com",
-        "error": "HTTPConnectionPool(host='rivithead.com', port=80): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPConnection(host='rivithead.com', port=80): Failed to resolve 'rivithead.com' ([Errno 11001] getaddrinfo failed)\"))"
+        "found": [],
+        "proofs": []
     }
 ]
